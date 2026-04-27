@@ -155,8 +155,10 @@ nav {
 }
 
 .profile-photo {
-  width: 130px;
-  height: 165px;
+  display: block;
+  width: 150px;
+  max-width: 150px;
+  height: 190px;
   border-radius: var(--radius);
   object-fit: cover;
   object-position: center top;
