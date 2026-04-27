@@ -1,0 +1,8 @@
+Place your CV PDF in this directory as:
+
+    assets/cv.pdf
+
+The file cv.html embeds it via an <iframe> and provides a download link.
+Until cv.pdf exists, the CV page will show an empty viewer.
+
+You can delete this placeholder file once you have added your CV.
